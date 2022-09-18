@@ -18,4 +18,5 @@ fields:
   name: tags
   label: tags
 pages:
+- exampleSite/content/post/tugas-form-login-2.md
 - exampleSite/content/post/welcome-di-blog-jongrpl.md
