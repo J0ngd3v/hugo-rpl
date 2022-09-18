@@ -1,9 +1,10 @@
 ---
-title: "Hugo Tania Theme"
+title: Official Web
 date: 2020-11-26
-description: Make a blog with hugo tania theme!
-weight: 1
-link: https://github.com/WingLim/hugo-tania
-repo: https://github.com/WingLim/hugo-tania
-icon: 📝
+description: Membuat Sistem Informasi untuk kelas RPL 1
+weight: "1"
+link: https://jongrpl1.eu.org
+repo: https://jongrpl1.eu.org
+icon: "\U0001F4DD"
+
 ---
