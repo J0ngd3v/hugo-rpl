@@ -1,5 +1,6 @@
 ---
-title: Articles
+title: Postingan
 subtitle: Posts, tutorials, snippets, musings, and everything else.
-layout: "archives"
+layout: archives
+
 ---
