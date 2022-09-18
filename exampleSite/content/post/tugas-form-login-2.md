@@ -6,6 +6,6 @@ tags = ["pakslamet", "tugas"]
 title = "Tugas Form Login Catatan Travel #2"
 
 +++
-1. Nama : Rysnanto (24) , **Link** : [travel.jongnesia.com]()
-2. Nama : M. Karim Adi Wibowo , **Link** : [karimtravel.000webhostapp.com]()
+1. Nama : Rysnanto (24) , **Link** : [travel.jongnesia.com](travel.jongnesia.com)
+2. Nama : M. Karim Adi Wibowo , **Link** : [karimtravel.000webhostapp.com](karimtravel.000webhostapp.com)
 3. 
