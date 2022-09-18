@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: m
+pages:
+- content/43tgerg.md
