@@ -1,15 +1,15 @@
 ---
 baseurl: https://blog.jongrpl1.eu.org
 languageCode: en-us
-title: Blog Jongrpl1
+title: Jongrpl
 theme: hugo-tania
 paginate: 6
 disqusShortname: https-hugo-tania-netlify-app
 params:
   titleEmoji: 
-  titleLogo: https://prodforestry-activestoragebucket2ab195a5-1obveygp78m7.s3.us-east-2.amazonaws.com/n8nky8lzpvgic6rdtplv1k3rqkew?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FKDXGD6RUL7CJVQ%2F20220918%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220918T081434Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=893fd5803002c336b8c8027944712749b3a180bff06a882947825a03de0841c1
+  titleLogo: 
   enableFootnotes: true
-  siteName: Jongrpl1 Blog
+  siteName: Jongrpl
   siteDesc: 
   author: admin
   colorScheme:
